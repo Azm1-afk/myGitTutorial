@@ -12,3 +12,5 @@ if(checkOdd(3)):
     print('This is not an odd number.')
 else:
     print('This is an odd number')
+    
+#added a function just to test git
