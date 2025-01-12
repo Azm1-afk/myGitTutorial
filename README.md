@@ -1,1 +1,2 @@
 # myGitTutorial
+The files that are associated with this repository are just mock files, they do not represent any function except just being filler code to test changes and are being used to teach myself Git and GitHub applications for the future.
