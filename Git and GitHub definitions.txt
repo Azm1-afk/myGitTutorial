@@ -33,5 +33,3 @@ A version of your project that is hosted online, like on GitHub. Think of it as 
 
  11. Repo (Repository)  
 A folder where all your project’s files and version history are stored. It’s like a digital binder for your project.
-
-Let me know if you'd like any examples!
